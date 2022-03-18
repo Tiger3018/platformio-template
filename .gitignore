@@ -1,0 +1,8 @@
+.pio
+.vscode/*
+!.vscode/extensions.json
+
+.mxproject
+Makefile
+startup*.s
+*_FLASH.ld
